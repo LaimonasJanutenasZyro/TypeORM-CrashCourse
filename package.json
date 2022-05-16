@@ -1,0 +1,21 @@
+{
+  "name": "TypeORM-CrashCourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --watch './**/*.ts' --exec 'ts-node' src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaimonasJanutenasZyro/TypeORM-CrashCourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaimonasJanutenasZyro/TypeORM-CrashCourse/issues"
+  },
+  "homepage": "https://github.com/LaimonasJanutenasZyro/TypeORM-CrashCourse#readme"
+}
